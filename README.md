@@ -1,6 +1,9 @@
 1. LICENSE AND COMPILER VERSION:
    >> //SPDX-License-Identifier:MIT: This line specifies the MIT open source license under which the code is distributed.
    >> pragma solidity 0.8.18; : This line declares the versiom of solidity (0.8.18)
+   
+
+
    Imagine a Treasure Chest:
 
 This chest represents the total supply of tokens (totalSupply), which starts at 0 (empty chest).
